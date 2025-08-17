@@ -12,7 +12,7 @@ Statement: Print a right-angled triangle of * of size n.
 n = 5
 
 
-#### Output:
+### Output:
 '''
 *
 **
@@ -27,7 +27,7 @@ n = 5
 n = 5
 
 
-#### Output:
+### Output:
 '''
 *****
 ****
@@ -42,7 +42,7 @@ n = 5
 n = 5
 
 
-#### Output:
+### Output:
 '''
 1
 12
@@ -57,7 +57,7 @@ n = 5
 n = 5
 
 
-#### Output:
+### Output:
 '''
     *
    ***
@@ -72,7 +72,7 @@ n = 5
 n = 5
 
 
-#### utput:
+### Output:
 '''
     *
    ***
