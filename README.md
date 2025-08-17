@@ -2,7 +2,7 @@
 
 This repository will contain tasks that I will complete to improve my Logic Building.
 
-<summary> ## 🧩 Day-1: Pattern Problems  </summary>
+## <summary> 🧩 Day-1: Pattern Problems  </summary>
 ### Problem 1: Right Triangle Star Pattern
 
 Statement: Print a right-angled triangle of * of size n.
@@ -23,7 +23,7 @@ Statement: Print a pyramid pattern of * of size n.
 
 Statement: Print a Diamond pattern of * of size n.
 
-<summary>## 🧩 Day-2: String & Number Reversal  </summary>
+## <summary> 🧩 Day-2: String & Number Reversal  </summary>
 ### 🔹 Task 1: Reverse a String (without built-ins)
 
 #### Problem:
