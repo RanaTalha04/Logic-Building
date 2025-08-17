@@ -22,7 +22,8 @@ Statement: Print a pyramid pattern of * of size n.
 ### Problem 5: Diamond Pattern
 
 Statement: Print a Diamond pattern of * of size n.
-
+</details>
+<details>
 ## <summary> 🧩 Day-2: String & Number Reversal  </summary>
 ### 🔹 Task 1: Reverse a String (without built-ins)
 
