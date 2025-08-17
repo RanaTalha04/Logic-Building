@@ -74,3 +74,34 @@ Input: "hello" → Output: Not Palindrome
 #### Hint:
 
 Compare string with its reverse (manual).
+
+### 🔹 Task 4: Palindrome Number
+
+#### Problem:
+Check if a number is palindrome.
+
+#### Example:
+
+Input: 121 → Palindrome
+Input: 123 → Not Palindrome
+
+
+#### Hint:
+
+Reuse Task 2 logic (reverse number).
+Compare reversed with original.
+
+### 🔹 Task 5: Word Reversal in Sentence
+
+#### Problem:
+Take a sentence and reverse the order of words.
+
+#### Example:
+
+Input: "I love Python"
+Output: "Python love I"
+
+#### Hint:
+
+Use split() to break into words.
+Reverse using loop (avoid [::-1]).
