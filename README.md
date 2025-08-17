@@ -13,13 +13,13 @@ n = 5
 
 
 #### Output:
-
+'''
 *
 **
 ***
 ****
 *****
-
+'''
 ### Problem 2: Inverted Right Triangle
 
 #### Input:
@@ -28,13 +28,13 @@ n = 5
 
 
 #### Output:
-
+'''
 *****
 ****
 ***
 **
 *
-
+'''
 ### Problem 3: Number Triangle
 
 #### Input:
@@ -43,13 +43,13 @@ n = 5
 
 
 #### Output:
-
+'''
 1
 12
 123
 1234
 12345
-
+'''
 ### Problem 4: Pyramid Pattern
 
 #### Input:
@@ -58,13 +58,13 @@ n = 5
 
 
 #### Output:
-
+'''
     *
    ***
   *****
  *******
 *********
-
+'''
 ### Problem 5: Diamond Pattern
 
 #### Input:
@@ -73,13 +73,13 @@ n = 5
 
 
 #### utput:
-
+'''
     *
    ***
   *****
    ***
     *
-
+'''
 ## 🧩 Day 2 Tasks
 
 ### 🔹 Task 1: Reverse a String (without built-ins)
@@ -87,7 +87,7 @@ n = 5
 #### Problem:
 Take a string as input and print it in reverse without using [::-1] or reversed().
 
-Example:
+##### Example:
 Input: "python"
 Output: "nohtyp"
 
@@ -102,7 +102,7 @@ Build a new string step by step.
 #### Problem:
 Take a number as input and reverse it.
 
-#### Example:
+##### Example:
 Input: 12345
 Output: 54321
 
@@ -119,7 +119,7 @@ Multiply reversed number by 10 and add digit.
 #### Problem:
 Check if a string is palindrome (same forwards & backwards).
 
-#### Example:
+##### Example:
 Input: "madam" → Output: Palindrome
 Input: "hello" → Output: Not Palindrome
 
