@@ -105,3 +105,32 @@ Output: "Python love I"
 
 Use split() to break into words.
 Reverse using loop (avoid [::-1]).
+
+## 🧩 Day-3: Palindrome & Word Reversal
+### 🔹 Task 1: Palindrome Sentence (Ignore Spaces)
+
+#### Problem:
+Check if a sentence is palindrome when spaces are ignored.
+
+#### Example:
+Input: "nurses run"
+Output: Palindrome
+
+
+#### Hint:
+Remove spaces first (replace(" ", "")).
+Then apply palindrome logic like Task 2.
+
+### 🔹 Task 2: Longest Palindrome Word in Sentence
+#### Problem:
+Find the longest palindrome word in a given sentence.
+
+#### Example:
+Input: "I saw madam at noon"
+Output: "madam"
+
+
+#### Hint:
+Split sentence into words.
+Check each word if it’s a palindrome.
+Track the longest one.
