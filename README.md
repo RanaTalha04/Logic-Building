@@ -140,3 +140,30 @@ Check each word if it’s a palindrome.
 Track the longest one.
 </details>
 
+<details>
+## <summary> 🧩 Day-4: Factorial, Fibonacci sequence </summary>
+### 🔹 Task 1: Factorial of a Number
+
+#### Problem:
+Write a function that takes a number n as input and returns its factorial.
+
+#### Example:
+Input: 5
+Output: 120
+
+#### Hint:
+Factorial of a number n is the product of all integers from 1 to n.
+By definition, 0! = 1.
+
+### 🔹 Task 2: Fibonacci Sequence
+#### Problem:
+Write a function that generates the first n terms of the Fibonacci sequence.
+
+#### Example:
+Input: 7
+Output: [0, 1, 1, 2, 3, 5, 8]
+
+#### Hint:
+Fibonacci sequence starts with 0, 1.
+Each next term is the sum of the previous two terms.
+</details>
