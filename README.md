@@ -23,8 +23,8 @@ Statement: Print a pyramid pattern of * of size n.
 
 Statement: Print a Diamond pattern of * of size n.
 </details>
-<details>
 
+<details>
 ## <summary> 🧩 Day-2: String & Number Reversal  </summary>
 ### 🔹 Task 1: Reverse a String (without built-ins)
 
@@ -108,8 +108,8 @@ Output: "Python love I"
 Use split() to break into words.
 Reverse using loop (avoid [::-1]).
 </details>
-<details>
 
+<details>
 ## <summary> 🧩 Day-3: Palindrome & Word Reversal </summary>
 ### 🔹 Task 1: Palindrome Sentence (Ignore Spaces)
 
