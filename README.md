@@ -2,7 +2,8 @@
 
 This repository will contain tasks that I will complete to improve my Logic Building.
 <details>
-## <summary> 🧩 Day-1: Pattern Problems  </summary>
+
+## <summary>🧩 Day-1: Pattern Problems</summary>
 ### Problem 1: Right Triangle Star Pattern
 
 Statement: Print a right-angled triangle of * of size n.
@@ -25,6 +26,7 @@ Statement: Print a Diamond pattern of * of size n.
 </details>
 
 <details>
+
 ## <summary> 🧩 Day-2: String & Number Reversal  </summary>
 ### 🔹 Task 1: Reverse a String (without built-ins)
 
@@ -110,6 +112,7 @@ Reverse using loop (avoid [::-1]).
 </details>
 
 <details>
+
 ## <summary> 🧩 Day-3: Palindrome & Word Reversal </summary>
 ### 🔹 Task 1: Palindrome Sentence (Ignore Spaces)
 
@@ -141,6 +144,7 @@ Track the longest one.
 </details>
 
 <details>
+
 ## <summary> 🧩 Day-4: Factorial, Fibonacci sequence </summary>
 ### 🔹 Task 1: Factorial of a Number
 
@@ -169,6 +173,7 @@ Each next term is the sum of the previous two terms.
 </details>
 
 <details>
+
 ## <summary> 🧩 Day-5: Armstrong & Perfect Numbers </summary>
 ### 🔹 Task 1: Armstrong Number
 #### Problem:
