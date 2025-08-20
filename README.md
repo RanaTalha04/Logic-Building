@@ -167,3 +167,33 @@ Output: [0, 1, 1, 2, 3, 5, 8]
 Fibonacci sequence starts with 0, 1.
 Each next term is the sum of the previous two terms.
 </details>
+
+<details>
+## <summary> 🧩 Day-5: Armstrong & Perfect Numbers </summary>
+### 🔹 Task 1: Armstrong Number
+#### Problem:
+Write a function that takes a number n as input and checks if it is Armstrong number or not.
+
+#### Example:
+Input: 153
+
+Explanation:
+1^3 + 5^3 + 3^3 = 153
+
+Output: Armstrong
+
+#### Hint:
+A number is called an Armstrong number if the sum of its digits each raised to the power of the number of digits equals the number itself.
+
+### 🔹 Task 2: Fibonacci Sequence
+#### Problem:
+Write a function that takes a number n as input and checks if it is Perfect number or not.
+
+#### Example:
+Input: 28
+Divisors: 1 + 2 + 4 + 7 + 14 = 28
+Output: Perfect
+
+#### Hint:
+A number is called a Perfect number if the sum of its proper divisors (excluding itself) is equal to the number.
+</details>
