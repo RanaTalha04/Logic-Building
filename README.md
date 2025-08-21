@@ -189,3 +189,26 @@ Output: Perfect
 #### Hint:
 A number is called a Perfect number if the sum of its proper divisors (excluding itself) is equal to the number.
 </details>
+
+## <summary> 🧩 Day-6: Prime Numbers </summary>
+### 🔹 Task 1: Check Prime Number
+#### Problem:
+Write a function that takes a number n as input and checks if it is a Prime number or not.
+
+#### Example:
+Input: 3
+Output: Prime
+
+#### Hint:
+A prime number is a whole number greater than 1 that has only two factors (divisors): 1 and the number itself
+
+### 🔹 Task 2: Print Sum of n Prime numbers
+#### Problem:
+Write a function that takes n prime numbers as input and returns the sum of these n numbers.
+
+#### Example:
+Input: 3
+[2, 3, 5]
+Output: 10
+
+</details>
