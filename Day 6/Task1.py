@@ -14,5 +14,6 @@ def is_prime(num):
     return "Prime"
 
 
-for i in range(1,20):
-    print(is_prime(i))
+num = int(input("Enter a number to check if it is a prime number: "))
+prime = is_prime(num)
+print(prime)
