@@ -212,3 +212,12 @@ Input: 3
 Output: 10
 
 </details>
+
+## <summary> 🧩 Day-7: Mini Project - Number Guessing Game </summary>
+#### Problem:
+Write a program where:
+. The computer randomly selects a number between 1 and 100.
+. The user has to guess the number.
+. After each guess, the program tells the user whether their guess is too high, too low, or correct.
+. The game continues until the user guesses correctly.
+. (Bonus) Limit the number of attempts and show how many tries the user took.
