@@ -223,3 +223,5 @@ Write a program where:
 . After each guess, the program tells the user whether their guess is too high, too low, or correct.
 . The game continues until the user guesses correctly.
 . (Bonus) Limit the number of attempts and show how many tries the user took.
+
+</details>
