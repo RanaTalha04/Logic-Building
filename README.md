@@ -224,3 +224,28 @@ Write a program where:
 . (Bonus) Limit the number of attempts and show how many tries the user took.
 
 </details>
+
+<details>
+  <summary>📅 Week 2</summary>
+  
+## <summary>🧩 Day-8: Max, Min, Sum, Average Manually</summary>
+### 🔹 Task 1: Reverse a String (without built-ins)
+
+#### Problem:
+Write a function that returns the maximum between two numbers.s
+
+### 🔹 Task 2: Reverse a Number (without string conversion)
+
+#### Problem:
+Write a function that returns the minimum between two numbers.
+
+### 🔹 Task 3: Sum of two numbers
+
+#### Problem:
+Print the sum of two numbers.
+
+### 🔹 Task 4: Average Number
+
+#### Problem:
+Print the average of two numbers.
+</details>
