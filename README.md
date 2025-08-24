@@ -1,8 +1,9 @@
 # Logic-Building
 
 This repository will contain tasks that I will complete to improve my Logic Building.
-<details> Week 1
-
+<details>
+  <summary>📅 Week 1</summary>
+  
 ## <summary>🧩 Day-1: Pattern Problems</summary>
 ### Problem 1: Right Triangle Star Pattern
 
