@@ -1,9 +1,8 @@
 # Logic-Building
 
 This repository will contain tasks that I will complete to improve my Logic Building.
-<details> 
+<details> Week 1
 
-## Week 1
 ## <summary>🧩 Day-1: Pattern Problems</summary>
 ### Problem 1: Right Triangle Star Pattern
 
@@ -190,7 +189,6 @@ Output: Perfect
 
 #### Hint:
 A number is called a Perfect number if the sum of its proper divisors (excluding itself) is equal to the number.
-</details>
 
 ## <summary> 🧩 Day-6: Prime Numbers </summary>
 ### 🔹 Task 1: Check Prime Number
