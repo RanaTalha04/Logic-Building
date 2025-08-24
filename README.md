@@ -1,16 +1,14 @@
 # Logic-Building
 
 This repository will contain tasks that I will complete to improve my Logic Building.
-<details>
 
-## Week 1
 ## <summary>🧩 Day-1: Pattern Problems</summary>
 ### Problem 1: Right Triangle Star Pattern
 
 Statement: Print a right-angled triangle of * of size n.
 
 ### Problem 2: Inverted Right Triangle
-Statement: Print a inverted right-angled triangle of * of size n.
+Statement: Print an inverted right-angled triangle of * of size n.
 
 ### Problem 3: Number Triangle
 
@@ -39,7 +37,7 @@ Output: "nohtyp"
 
 #### Hint:
 
-Use a loop from last index to first.
+Use a loop from the last index to the first.
 
 Build a new string step by step.
 
@@ -56,16 +54,16 @@ Output: 54321
 
 #### Hint:
 
-Use % 10 to get last digit.
+Use % 10 to get the last digit.
 
-Use // 10 to remove last digit.
+Use // 10 to remove the last digit.
 
-Multiply reversed number by 10 and add digit.
+Multiply the reversed number by 10 and add a digit.
 
 ### 🔹 Task 3: Palindrome String
 
 #### Problem:
-Check if a string is palindrome (same forwards & backwards).
+Check if a string is a palindrome (same forwards & backwards).
 
 #### Example:
 
@@ -75,12 +73,12 @@ Input: "hello" → Output: Not Palindrome
 
 #### Hint:
 
-Compare string with its reverse (manual).
+Compare the string with its reverse (manual).
 
 ### 🔹 Task 4: Palindrome Number
 
 #### Problem:
-Check if a number is palindrome.
+Check if a number is a palindrome.
 
 #### Example:
 
@@ -91,7 +89,7 @@ Input: 123 → Not Palindrome
 #### Hint:
 
 Reuse Task 2 logic (reverse number).
-Compare reversed with original.
+Compare the reversed with the original.
 
 ### 🔹 Task 5: Word Reversal in Sentence
 
@@ -223,5 +221,3 @@ Write a program where:
 . After each guess, the program tells the user whether their guess is too high, too low, or correct.
 . The game continues until the user guesses correctly.
 . (Bonus) Limit the number of attempts and show how many tries the user took.
-
-</details>
