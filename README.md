@@ -1,7 +1,9 @@
 # Logic-Building
 
 This repository will contain tasks that I will complete to improve my Logic Building.
+<details>
 
+## Week 1
 ## <summary>🧩 Day-1: Pattern Problems</summary>
 ### Problem 1: Right Triangle Star Pattern
 
@@ -211,7 +213,7 @@ Input: 3
 [2, 3, 5]
 Output: 10
 
-</details>
+
 
 ## <summary> 🧩 Day-7: Mini Project - Number Guessing Game </summary>
 #### Problem:
@@ -221,3 +223,5 @@ Write a program where:
 . After each guess, the program tells the user whether their guess is too high, too low, or correct.
 . The game continues until the user guesses correctly.
 . (Bonus) Limit the number of attempts and show how many tries the user took.
+
+</details>
