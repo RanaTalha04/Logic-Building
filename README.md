@@ -19,8 +19,8 @@ This repository will contain tasks that I will complete to improve my Logic Buil
   <summary>📅 Week 2</summary>
 
 - ### **Day 8** → Max, Min, Sum, Average Manually 
-- ### **Day 9** → 
-- ### **Day 10** → 
+- ### **Day 9** → Remove duplicates from a list.
+- ### **Day 10** → Frequency counter using dictionary.
 - ### **Day 11** →   
 - ### **Day 12** → 
 - ### **Day 13** → 
