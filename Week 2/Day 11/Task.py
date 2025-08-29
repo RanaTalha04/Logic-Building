@@ -1,3 +1,5 @@
+# Merge two sorted lists.
+
 def list_com(lst1, lst2):
     i, j = 0, 0
     result = []
