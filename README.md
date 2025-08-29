@@ -19,11 +19,11 @@ This repository will contain tasks that I will complete to improve my Logic Buil
   <summary>📅 Week 2</summary>
 
 - ### **Day 8** → Max, Min, Sum, Average Manually 
-- ### **Day 9** → Remove duplicates from a list.
-- ### **Day 10** → Frequency counter using dictionary.
-- ### **Day 11** → Merge two sorted lists.
-- ### **Day 12** → Implement stack (push/pop).
-- ### **Day 13** → Implement queue (enqueue/dequeue).
+- ### **Day 9** → Remove duplicates from a list
+- ### **Day 10** → Frequency counter using dictionary
+- ### **Day 11** → Merge two sorted lists
+- ### **Day 12** → Implement stack (push/pop)
+- ### **Day 13** → Implement queue (enqueue/dequeue)
 - ### **Day 14** → 
 
 </details>
