@@ -24,6 +24,6 @@ This repository will contain tasks that I will complete to improve my Logic Buil
 - ### **Day 11** → Merge two sorted lists
 - ### **Day 12** → Implement stack (push/pop)
 - ### **Day 13** → Implement queue (enqueue/dequeue)
-- ### **Day 14** → 
+- ### **Day 14** → Mini project: Quiz app (MCQs with scoring)
 
 </details>
