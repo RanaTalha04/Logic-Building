@@ -27,3 +27,16 @@ This repository will contain tasks that I will complete to improve my Logic Buil
 - ### **Day 14** → Mini project: Quiz app (MCQs with scoring)
 
 </details>
+
+<details>
+  <summary>📅 Week 3</summary>
+
+- ### **Day 15** → Linear & binary search
+- ### **Day 16** → 
+- ### **Day 17** →
+- ### **Day 18** →
+- ### **Day 19** →
+- ### **Day 20** →
+- ### **Day 21** →
+
+</details>
