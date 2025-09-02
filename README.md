@@ -33,7 +33,7 @@ This repository will contain tasks that I will complete to improve my Logic Buil
 
 - ### **Day 15** → Linear & binary search
 - ### **Day 16** → Bubble sort & Insertion sort
-- ### **Day 17** →
+- ### **Day 17** → Selection sort & Quicksort
 - ### **Day 18** →
 - ### **Day 19** →
 - ### **Day 20** →
